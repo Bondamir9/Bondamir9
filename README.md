@@ -1,10 +1,5 @@
-<h1>Hi, I'm Amir! <br/> <a href="www.linkedin.com/in/amir-bond-little"> Asprining Cybersecurity Professional</a>
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+<h1>Hi, I'm Amir! <br/> <a href="www.linkedin.com/in/amir-bond-little"> Aspiring Cybersecurity Professional</a>
+<h2>👨‍💻  Cybersecurity Projects:</h2>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
@@ -17,6 +12,8 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+<h2> 📄 Certifications </h2>
+-[Google Cybersecurity Professional Certification](https://www.youtube.com/watch?v=a83ASGn_V_s) 
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
